@@ -1,0 +1,11 @@
+The GPS tracker has a 7 day battery life on a full charge. Battery life may be shorter in cold weather or when the location update interval is set below 10 seconds.
+
+To charge the device, use the USB-C cable that comes in the box. A full charge takes about 3 hours. The LED turns green when charging is complete.
+
+The tracker sends its location every 30 seconds when moving and every 5 minutes when parked. These intervals can be changed from the mobile app settings.
+
+The device is waterproof up to 1 meter for 30 minutes. It is not designed for saltwater or long submersion.
+
+If the tracker loses network signal, it stores location data internally and uploads it once the network is available again. It can store up to 5000 location points offline.
+
+To reset the tracker, hold the power button for 10 seconds until the LED blinks red twice. Resetting removes all saved settings but not the stored location history.
