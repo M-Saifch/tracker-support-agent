@@ -27,6 +27,7 @@ It answers questions from a product FAQ and can call tools (e.g. check device ba
 - Memory is session-only (lost when the script stops)
 - Occasional minor hallucination on follow-up questions
 - `get_battery_status` uses mock data
+-  The bot can occasionally invent details when retrieval returns loosely related chunks (for example a question the FAQ does not cover); a relevance threshold is planned
 
 ## Roadmap
 Streamlit UI, FastAPI endpoint, evaluation test set

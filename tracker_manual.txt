@@ -1,0 +1,1 @@
+To enable stealth mode, press the power button twice quickly. In stealth mode the LED stays off.
